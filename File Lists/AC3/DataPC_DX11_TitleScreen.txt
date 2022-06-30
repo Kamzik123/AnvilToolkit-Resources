@@ -1,9 +1,0 @@
-74854846|TitleScreen\SpaceRefOverride.Entity
-322167031|TitleScreen\TitleScreen.World
-322167032|TitleScreen\Default.WorldArea
-322167138|TitleScreen\PlayerSpawner.Entity
-3375109048|TitleScreen\FX_Menu_Pause_Zattenuation.FX
-4333407690|TitleScreen\menuMaster.FireData
-4737553220|TitleScreen\Animus_V3_UIKit.UIKit
-4804124786|TitleScreen\hudMaster.FireData
-10087654903|TitleScreen\TitleScreen_V3_UIKit.UIKit

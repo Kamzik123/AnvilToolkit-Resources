@@ -1,2 +1,0 @@
-31018069583|PRO_Fuzzy\ACU_LD_Restricted_BounceOff_WoodSolid.CollisionMaterial
-252963517798|PRO_Fuzzy\PRO_Fuzzy.MeshShape

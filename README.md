@@ -37,3 +37,25 @@ You can find AnvilToolkit tutorials and download file lists and other AnvilToolk
 - spncryn
 - Stahl
 - ThatGuyKhi
+- Xray2
+- Specialist Costanza
+- Trigger
+- FOXDIE
+- Lekica
+- Billy Herrington
+- ?Rainer?
+- Umbra1-1
+- Snobal1
+- SgtPorkchop91
+- Proch
+- nniillss
+- Makimoto
+- Macklewhore
+- Johntaber
+- Jæger 2-5
+- faust
+- Digital Arctic
+- Deef
+- Cavalier
+- Beetas
+- Alfa-lima-90

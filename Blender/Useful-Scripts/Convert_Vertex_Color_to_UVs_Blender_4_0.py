@@ -34,7 +34,7 @@ class OBJECT_OT_vertex_color_convert_to_uv(Operator):
             for li in poly.loop_indices:
                 vi = mesh.loops[li].vertex_index
                 color = color_layer.data[vi].color
-                mesh.uv_layers[0].uv[li].vector = mathutils.Vector((color[0], color[1]))
+                mesh.uv_layers.active.uv[li].vector = mathutils.Vector((color[0], color[1]))
                
         return {'FINISHED'}
 

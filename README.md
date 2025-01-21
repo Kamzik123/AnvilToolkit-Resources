@@ -41,7 +41,6 @@ You can find AnvilToolkit tutorials and download file lists and other AnvilToolk
 - Specialist Costanza
 - Trigger
 - FOXDIE
-- Lekica
 - Billy Herrington
 - ?Rainer?
 - Umbra1-1
@@ -61,7 +60,6 @@ You can find AnvilToolkit tutorials and download file lists and other AnvilToolk
 - Alfa-lima-90
 - Lekica
 - fatal5778
-- .beliar.
 - altair6432
 - xluma
 - ibsarp
@@ -92,3 +90,9 @@ You can find AnvilToolkit tutorials and download file lists and other AnvilToolk
 - tenabrea
 - aquitaine01
 - Baykiev
+- perkele2942
+- Tsukina
+- cern0839
+- macxhiin
+- mhmd_umer_soa
+- pegamixel

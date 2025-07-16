@@ -15,6 +15,7 @@ You can find AnvilToolkit tutorials and download file lists and other AnvilToolk
 - RyoHazaki
 - Aetiüs
 - forgeMaster
+- ArmanIII
 - Ambrose
 - ApexMandalorian
 - B♢ＲＩＳ ♖
